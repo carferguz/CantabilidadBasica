@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91bcb63b-027c-435a-aeb0-0324be7dbc68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/contablebasic/ciclo3/model/empleado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -1,6 +1,6 @@
 package com.contablebasic.ciclo3.model;
 
-public class Transaccion {
+public class MovimientoDinero {
     //Atributos
     private long id;
     private String concept;
@@ -10,7 +10,7 @@ public class Transaccion {
 
     //Método constructor
 
-    public Transaccion(){
+    public MovimientoDinero(){
 
     }
 
