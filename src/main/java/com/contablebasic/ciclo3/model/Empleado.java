@@ -1,6 +1,6 @@
 package src.main.java.com.contablebasic.ciclo3.model;
 
-public class empleado {
+public class Empleado {
     //variables
     private char id;
     private String correo;
@@ -9,7 +9,7 @@ public class empleado {
     private String nombre;
 
     //constructor
-    public empleado() {
+    public Empleado() {
     }
 
     //lectura y escritura de las variables
